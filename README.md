@@ -8,8 +8,8 @@ Os números ainda estão em progresso em algumas iniciativas, então esse docume
 
 
 #CocoaTalks
-- Consolidado de 2014
-- Consolidado de 2015
+- [Consolidado de 2014](https://github.com/CocoaHeadsBrasil/cocoaheads-br-numeros/blob/master/pt-br/consolidado-2014.md#números-consolidados-do-cocoaheads-2014)
+- [Consolidado de 2015](https://github.com/CocoaHeadsBrasil/cocoaheads-br-numeros/blob/master/pt-br/consolidado-2015.md#números-consolidados-do-cocoaheads-2015)
 - Parcial de 2016
 
 #equinociOS
