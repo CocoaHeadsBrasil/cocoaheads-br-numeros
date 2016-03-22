@@ -8,9 +8,9 @@ Foram **2213** participantes ao todo! Quase o dobro do ano passado.
 ##Capítulos abertos em 2015
 Foram abertos 7 capítulos nesse ano!
 
-![]({{ site.baseurl }}/_img/2015/abertura-capitulos-2015.png)
+![](/_img/2015/abertura-capitulos-2015.png)
 
 ##Quantidade total de eventos por mês
 Dos 75 eventos que tivemos no período de maio até dezembro, tivemos uma média de 7 eventos por mês.
 
-![]({{ site.baseurl }}/_img/2015/qtde-evento-mes.png)
+![](/_img/2015/qtde-evento-mes.png)

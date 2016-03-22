@@ -4,11 +4,13 @@ A seguir iremos descrever os números das iniciativas tomadas pelos membros da c
 
 Os números ainda estão em progresso em algumas iniciativas, então esse documento será atualizado periodicamente.
 
-**A data da ultima atualização foi: 16/03/2016**
+**A data da ultima atualização foi: 21/03/2016**
 
 
 #CocoaTalks
-O cocoatalk é o evento 
+- Consolidado de 2014
+- Consolidado de 2015
+- Parcial de 2016
 
 #equinociOS
 .
@@ -22,8 +24,8 @@ O cocoatalk é o evento
 #CocoaHeads App
 .
 
-#Redes sociais
+#Slack
 .
 
-#Fonte
-	http://www.cocoaheads.com.br/agendas/todas
+#Redes sociais
+.
