@@ -10,101 +10,74 @@ Foram abertos 11 capítulos em um período de 7 meses. Isso é pouco mais que 1,
 
 ![](/_img/2014/abertura-capitulos-2014.png)
 
-##Quantidade total de eventos por mês
+#Quantidade total de eventos por mês
 Dos 48 eventos que tivemos no período de maio até dezembro, tivemos uma média de 6 eventos por mês.
 
 ![](/_img/2014/qtde-evento-mes.png)
 
-##Chapter Brasília em números:
-###Quantidade de eventos no ano
-![](/_img/2014/brasilia-qtd-eventos.png)
+##CocoaHeads Talk
+| CIDADE          | 5/14  | 6/14  | 7/14  | 8/14  | 9/14  | 10/14 | 11/14 | TOTAL  |
+|-----------------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:------:|
+| Barra da Tijuca |       |       |       |       |       | 1     | 1     | **2**  |
+| Belo Horizonte  | 1     | 1     | 1     |       | 1     | 1     |       | **5**  |
+| Brasilia        |       |       |       |       |       | 1     | 1     | **2**  |
+| Campinas        |       |       | 1     | 1     | 1     | 1     | 1     | **5**  |
+| Curitiba        |       |       |       |       | 1     | 1     | 1     | **3**  |
+| Goiania         | 1     | 1     | 1     | 1     | 1     | 1     | 1     | **7**  |
+| Porto Alegre    |       |       |       |       |       | 1     | 1     | **2**  |
+| Rio de Janeiro  |       | 1     | 1     | 1     | 1     | 1     |       | **5**  |
+| São Paulo       | 1     | 1     | 1     | 1     | 1     | 1     |       | **6**  |
+| Tatuí           |       |       |       |       |       |       | 1     | **1**  |
+| Teresina        |       |       |       |       | 1     |       | 2     | **3**  |
+| **TOTAL**       | **3** | **4** | **5** | **4** | **7** | **9** | **9** | **41** |
 
 
-###Número de participante por mês
-![](/_img/2014/brasilia-qtd-participantes.png)
+##CocoaHeads Dojo
+| CIDADE    | 6/14  | 7/14  | 8/14  | 10/14 | 12/14 | **TOTAL** | 
+|-----------|:-----:|:-----:|:-----:|:-----:|:-----:|:---------:| 
+| Goiania   |       | 1     | 1     |       |       | **2**     | 
+| São Paulo | 1     | 1     |       | 1     | 1     | **4**     | 
+| **TOTAL** | **1** | **2** | **1** | **1** | **1** | **6**     | 
+
+##CocoaHeads Drinkup
+| CIDADE          | 12/14 | TOTAL | 
+|-----------------|:-----:|:-----:| 
+| Barra da Tijuca | 1     | 1     | 
 
 
-##Chapter Goiania em números:
-###Quantidade de eventos no ano
-![](/_img/2014/goiania-qtd-eventos.png)
+#Quantidade total de participantes por mês
+Durante o ano de 2014 tivemos a média de XX participantes por evento.
+
+![](/_img/2014/qtde-participante-mes.png)
+
+##CocoaHeads Talk
+| CIDADE          | 5/14   | 6/14    | 7/14    | 8/14    | 9/14    | 10/14   | 11/14   | TOTAL    | 
+|-----------------|:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:--------:| 
+| Barra da Tijuca |        |         |         |         |         | 30      | 29      | **59**   | 
+| Belo Horizonte  | 13     | 45      | 45      |         | 35      | 49      |         | **187**  | 
+| Brasilia        |        |         |         |         |         | 24      | 27      | **51**   | 
+| Campinas        |        |         | 9       | 14      | 15      | 16      | 37      | **91**   | 
+| Curitiba        |        |         |         |         | 37      | 15      | 40      | **92**   | 
+| Goiania         | 0      | 40      | 25      | 27      | 17      | 17      | 14      | **140**  | 
+| Porto Alegre    |        |         |         |         |         | 80      | 61      | **141**  | 
+| Rio de Janeiro  |        | 33      | 42      | 55      | 12      | 36      |         | **178**  | 
+| São Paulo       | 25     | 21      | 26      | 31      | 21      | 39      |         | **163**  | 
+| Tatuí           |        |         |         |         |         |         | 30      | **30**   | 
+| Teresina        |        |         |         |         | 25      |         | 25      | **50**   | 
+| **TOTAL**       | **38** | **139** | **147** | **127** | **162** | **306** | **263** | **1182** | 
 
 
-###Número de participante por mês
-![](/_img/2014/goiania-qtd-participantes.png)
+##CocoaHeads Dojo
+| CIDADE    | 6/14   | 7/14   | 8/14  | 10/14  | 12/14  | TOTAL  | 
+|-----------|:------:|:------:|:-----:|:------:|:------:|:------:| 
+| Goiania   |        | 8      | 7     |        |        | **15** | 
+| São Paulo | 14     | 11     |       | 10     | 13     | **48** | 
+| **TOTAL** | **14** | **19** | **7** | **10** | **13** | **63** | 
 
-##Chapter Teresina em números:
-###Quantidade de eventos no ano
-![](/_img/2014/teresina-qtd-eventos.png)
+##CocoaHeads Drinkup
+| CIDADE          | 12/14 | 
+|-----------------|:-----:| 
+| Barra da Tijuca | 14    | 
 
-
-###Número de participante por mês
-![](/_img/2014/teresina-qtd-participantes.png)
-
-##Chapter Belo Horizonte em números:
-###Quantidade de eventos no ano
-![](/_img/2014/bh-qtd-eventos.png)
-
-
-###Número de participante por mês
-![](/_img/2014/bh-qtd-participantes.png)
-
-##Chapter Barra da Tijuca em números:
-###Quantidade de eventos no ano
-![](/_img/2014/barra-qtd-eventos.png)
-
-
-###Número de participante por mês
-![](/_img/2014/barra-qtd-participantes.png)
-
-##Chapter Rio de Janeiro em números:
-###Quantidade de eventos no ano
-![](/_img/2014/rj-qtd-eventos.png)
-
-
-###Número de participante por mês
-![](/_img/2014/rj-qtd-participantes.png)
-
-##Chapter Campinas em números:
-###Quantidade de eventos no ano
-![](/_img/2014/campinas-qtd-eventos.png)
-
-
-###Número de participante por mês
-![](/_img/2014/campinas-qtd-participantes.png)
-
-##Chapter São Paulo em números:
-###Quantidade de eventos no ano
-![](/_img/2014/sp-qtd-eventos.png)
-
-
-###Número de participante por mês
-![](/_img/2014/sp-qtd-participantes.png)
-
-##Chapter Tatuí em números:
-###Quantidade de eventos no ano
-![](/_img/2014/tatui-qtd-eventos.png)
-
-
-###Número de participante por mês
-![](/_img/2014/tatui-qtd-participantes.png)
-
-##Chapter Curitiba em números:
-###Quantidade de eventos no ano
-![](/_img/2014/curitiba-qtd-eventos.png)
-
-
-###Número de participante por mês
-![](/_img/2014/curitiba-qtd-participantes.png)
-
-##Chapter Porto Alegre em números:
-###Quantidade de eventos no ano
-![](/_img/2014/poa-qtd-eventos.png)
-
-
-###Número de participante por mês
-![](/_img/2014/poa-qtd-participantes.png)
-
-##Engajamento por região
-![](/_img/2014/engajamento-por-regiao.png)
-
-#Conclusão
+#Fonte
+A base de dados para as informações foram coletadas do Meetup de cada capítulo por integrantes do CocoaHeads Brasil e está disponível em uma planilha do [Google Drive](https://docs.google.com/spreadsheets/d/1QfdDz2qclEF_pVSmgT2ixY4jV2rb-papuoZiV9ivj74/edit?usp=sharing).
