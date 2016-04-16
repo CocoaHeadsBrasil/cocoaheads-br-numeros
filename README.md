@@ -4,7 +4,7 @@ A seguir iremos descrever os números das iniciativas tomadas pelos membros da c
 
 Os números ainda estão em progresso em algumas iniciativas, então esse documento será atualizado periodicamente.
 
-**A data da ultima atualização foi: 21/03/2016**
+**A data da ultima atualização foi: 15/04/2016**
 
 
 #CocoaTalks
