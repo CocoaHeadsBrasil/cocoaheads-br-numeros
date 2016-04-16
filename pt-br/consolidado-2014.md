@@ -46,7 +46,7 @@ Dos 48 eventos que tivemos no período de maio até dezembro, tivemos uma média
 
 
 #Quantidade total de participantes por mês
-Durante o ano de 2014 tivemos a média de XX participantes por evento.
+Durante o ano de 2014 tivemos a média de 1259 participantes por evento, uma média de quase 105 cabeças de cacau participando de eventos todos os meses!
 
 ![](/_img/2014/qtde-participante-mes.png)
 
@@ -78,6 +78,9 @@ Durante o ano de 2014 tivemos a média de XX participantes por evento.
 | CIDADE          | 12/14 | 
 |-----------------|:-----:| 
 | Barra da Tijuca | 14    | 
+
+#Engajamento por Região
+![](/_img/2014/engajamento-por-regiao.png)
 
 #Fonte
 A base de dados para as informações foram coletadas do Meetup de cada capítulo por integrantes do CocoaHeads Brasil e está disponível em uma planilha do [Google Drive](https://docs.google.com/spreadsheets/d/1QfdDz2qclEF_pVSmgT2ixY4jV2rb-papuoZiV9ivj74/edit?usp=sharing).
