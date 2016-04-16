@@ -46,7 +46,7 @@ Dos 48 eventos que tivemos no período de maio até dezembro, tivemos uma média
 
 
 #Quantidade total de participantes por mês
-Durante o ano de 2014 tivemos a média de 1259 participantes por evento, uma média de quase 105 cabeças de cacau participando de eventos todos os meses!
+Durante o ano de 2014 tivemos um total de 1259 participantes, uma média de quase 105 cabeças de cacau participando de eventos todos os meses!
 
 ![](/_img/2014/qtde-participante-mes.png)
 
